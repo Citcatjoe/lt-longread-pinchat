@@ -1,0 +1,19 @@
+{
+	"brand": "letemps",
+	"title": "L’avalanche de leur vie",
+	"description": "Quatre victimes racontent leur expérience. Ce jour où la montagne, un instant, a trahi leur confiance.",
+	"twitterDescription": "Quatre victimes racontent leur expérience. Ce jour où la montagne, un instant, a trahi leur confiance.",
+	"authors": "Caroline Christinaz, Servan Peca, César Greppin",
+	"imgSocial": "social.jpg", 
+	
+
+	"navBarStyle": "black",
+	"navBarOffset": "0",
+	"navBarLocked": false,
+	"devmode": false,
+
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "http://www.letemps.ch"
+	}
+}
