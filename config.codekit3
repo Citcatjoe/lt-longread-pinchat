@@ -9,11 +9,88 @@
 	],
 "creatorBuild": "26330",
 "files": {
+	"\/_prod\/graphs.jpg": {
+		"ft": 16384,
+		"iS": 1597684,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/graphs\/Capture d’écran 2018-04-03 à 10.32.24.png": {
+		"ft": 32768,
+		"iS": 58960,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs\/Capture d’écran 2018-04-03 à 10.32.24.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/graphs\/Capture d’écran 2018-04-03 à 10.32.55.png": {
+		"ft": 32768,
+		"iS": 114916,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs\/Capture d’écran 2018-04-03 à 10.32.55.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/graphs\/LU Rapport signa-2016-2017[1].pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs\/LU Rapport signa-2016-2017[1].pdf",
+		"oF": 0
+		},
+	"\/_prod\/graphs\/LU SRED d4_transitions_vers_sec2[1].pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs\/LU SRED d4_transitions_vers_sec2[1].pdf",
+		"oF": 0
+		},
+	"\/_prod\/graphs\/photo_2018-04-03_15-50-16.jpg": {
+		"ft": 16384,
+		"iS": 182311,
+		"oA": 0,
+		"oAP": "\/_prod\/graphs\/photo_2018-04-03_15-50-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/palette.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/palette.sketch",
+		"oF": 0
+		},
+	"\/_prod\/txt\/PINCHAT TXT DéFINITIF.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/txt\/PINCHAT TXT DéFINITIF.docx",
+		"oF": 0
+		},
 	"\/_prod\/txt\/v1\/Pinchat TXT Eléments.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_prod\/txt\/v1\/Pinchat TXT Eléments.docx",
+		"oF": 0
+		},
+	"\/_prod\/txt\/~$NCHAT TXT DéFINITIF.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/txt\/~$NCHAT TXT DéFINITIF.docx",
 		"oF": 0
 		},
 	"\/BLOCKS.html.twig": {
@@ -1848,6 +1925,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/cycle_pinchat-122.jpg": {
+		"ft": 16384,
+		"iS": 485200,
+		"oA": 0,
+		"oAP": "\/img\/article\/cycle_pinchat-122.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/cycle_pinchat-25.jpg": {
+		"ft": 16384,
+		"iS": 6728037,
+		"oA": 0,
+		"oAP": "\/img\/article\/cycle_pinchat-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/article\/end.jpg": {
 		"ft": 16384,
 		"iS": 119151,
@@ -2050,6 +2147,16 @@
 		"iS": 134881,
 		"oA": 0,
 		"oAP": "\/img\/article\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/nadege-salzmann-2.jpg": {
+		"ft": 16384,
+		"iS": 60968,
+		"oA": 0,
+		"oAP": "\/img\/article\/nadege-salzmann-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2357,6 +2464,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/placeholder330x330-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/placeholder330x330-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/placeholder330x330-2.jpg": {
 		"ft": 16384,
 		"iS": 13257,
@@ -2367,6 +2484,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/placeholder330x330-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/placeholder330x330-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/placeholder330x330-3.jpg": {
 		"ft": 16384,
 		"iS": 13321,
@@ -2376,6 +2503,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/img\/placeholder330x330-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/placeholder330x330-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/index.html.twig": {
 		"cB": 0,
@@ -2391,12 +2528,32 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexLT.php": {
+	"\/indexH.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/indexLT.php",
+		"oAP": "\/indexH.php",
 		"oF": 0
+		},
+	"\/js\/anim-blocks-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/anim-blocks-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/anim-blocks.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/anim-blocks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/js\/animation.gsap.js": {
 		"ft": 64,
@@ -2615,6 +2772,23 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/pdf\/pv_ade_22.05.17.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/pdf\/pv_ade_22.05.17.pdf",
+		"oF": 0
+		},
+	"\/pdf\/richoz.jpeg": {
+		"ft": 16384,
+		"iS": 12590,
+		"oA": 0,
+		"oAP": "\/pdf\/richoz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -7122,7 +7296,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 538322692,
-	"displayValue": "lt-longread-ecoles",
+	"displayValue": "lt-longread-pinchat",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-leo"
 	},
@@ -8519,7 +8693,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888\/lt-longread-ecoles",
+	"externalServerAddress": "http:\/\/localhost:8888\/lt-longread-pinchat",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

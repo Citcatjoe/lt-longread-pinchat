@@ -983,8 +983,7 @@ canvas
 {
 	background: #fdfdfd;
     padding: 15px;
-    min-height: 500px;
-	max-height: 500px;
+    
 	border: 1px solid #e1e1e1;
 
     @include breakpoint(xs) { 
@@ -995,22 +994,70 @@ canvas
     }
 }
 
+#myChart, #myChart2
+{
+	min-height: 500px;
+	max-height: 500px;
+}
+
+#myChart3
+{
+	min-height: 470px;
+	max-height: 470px;
+}
+
 // .col-md-8
 // {
 // 	width: 66.66666667!important;
 // }
 
 .scene-stepped
-{
+{	
+	
+	//margin-bottom: 45px;
+	margin: 30px 0;
+	@include breakpoint(md) { 
+		margin: 0 0 15px 0;
+		
+	}
+
+	.scene-wrapper
+	{
+		padding: 60px 0 60px 0;
+		border-bottom: 1px solid #e1e1e1;
+		border-top: 1px solid #e1e1e1;
+
+		@include breakpoint(md) { 
+	    	border: 0;
+			padding: 0;
+			// padding: 15px 0 15px 0;
+   		}
+
+	}
+
 	.scene-stepped--figure
 	{
-		background: gray;
-		height: 330px;
+		//background: gray;
+		height: 368px;
 		position: relative;
+
+		@include breakpoint(xl) { 
+	    	height: 312px;
+			
+			
+		   }
+		   
+		   @include breakpoint(lg) { 
+	    	height: 296px;
+			
+			
+   		}
 		
 		@include breakpoint(md) { 
 	    	padding-bottom: 100%;
-	         
+			margin-bottom: 20px;
+			
+			
    		}
 		
 		img 
@@ -1022,6 +1069,24 @@ canvas
 			// visibility: hidden;
 			opacity: 0;
 		}
+	}
+
+	.scene-stepped--figcaption
+	{
+		
+	
+		.f-quote 
+		{
+			
+
+			@include breakpoint(md) { 
+				font-size: 20px;
+				line-height: 27px;
+				
+				
+			}
+		}
+		
 	}
 
 }

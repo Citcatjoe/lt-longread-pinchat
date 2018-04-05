@@ -19,8 +19,10 @@ $font2: 'proxima-nova';
 .f-weight700i { font-weight: 700; font-style: italic; } //adelle bold italic
 
 .f-h1 { 
-    font-size: 72px; 
-    line-height: 66px; 
+    // font-size: 72px; 
+    // line-height: 66px; 
+    font-size: 52px; 
+    line-height: 56px; 
 
     @include breakpoint(xs) { 
         font-size: 38px; 
@@ -257,4 +259,15 @@ p.lettrine
             }
         }
     
+}
+
+.signature 
+{
+    display: block;
+    //font-size: 75%;
+    margin-top: 30px;
+
+    @include breakpoint(md) { 
+         margin-top: 10px;
+    }
 }
