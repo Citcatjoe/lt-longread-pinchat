@@ -109,6 +109,18 @@ jQuery(document).ready(function($)
 
   
 
+
+  var chartColor0 = '#25A6D2';
+  var chartColor1 = '#DF681C';
+  var chartColor2 = '#F4965E';
+  var chartColor3 = '#FADECD';
+  var chartColor4 = '#F4EACE';
+  var chartColor5 = '#D3EDF6';
+  var chartColor6 = '#EAF2F4';
+  var chartColor7 = '#EFEDED';
+
+  
+
   var chart1Done = false;
   // $(window).scroll(function() {
   //   if ($("#myChart").is(":in-viewport") && chart1Done == false) {
@@ -139,26 +151,6 @@ jQuery(document).ready(function($)
                 fill: false,
                 pointRadius: 1,
                 label:
-                  "École secondaire II",
-                data: [
-                  154,
-                  145,
-                  122,
-                  140,
-                  97,
-                  98
-                ],
-                backgroundColor:
-                  "#F4965E",
-                borderColor:
-                  "#F4965E",
-                borderWidth: 3
-                //lineTension: 0
-              },
-              {
-                fill: false,
-                pointRadius: 1,
-                label:
                   "Cycle d'orientation",
                 data: [
                   154,
@@ -169,9 +161,9 @@ jQuery(document).ready(function($)
                   135
                 ],
                 backgroundColor:
-                  "#F0551B",
+                  chartColor1,
                 borderColor:
-                  "#F0551B",
+                  chartColor1,
                 borderWidth: 3
                 //lineTension: 0
               },
@@ -189,9 +181,29 @@ jQuery(document).ready(function($)
                   52
                 ],
                 backgroundColor:
-                  "#985708",
+                  chartColor4,
                 borderColor:
-                  "#985708",
+                  chartColor4,
+                borderWidth: 3
+                //lineTension: 0
+              },
+              {
+                fill: false,
+                pointRadius: 1,
+                label:
+                  "École secondaire II",
+                data: [
+                  154,
+                  145,
+                  122,
+                  140,
+                  97,
+                  98
+                ],
+                backgroundColor:
+                  chartColor5,
+                borderColor:
+                  chartColor5,
                 borderWidth: 3
                 //lineTension: 0
               }
@@ -320,8 +332,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Formation gymnasiale",
               data: [44, 44, 47, 47, 46, 46, 45, 45, 44, 46, 45, 47, 49, 46, 44, 42, 47],
-              backgroundColor: "#A6A6A6",
-              borderColor: "#A6A6A6",
+              backgroundColor: chartColor6,
+              borderColor: chartColor6,
               borderWidth: 2,
               lineTension: 0
             },
@@ -330,8 +342,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Formation de culture générale",
               data: [11, 11, 13, 12, 11, 10, 11, 11, 10, 9, 8, 7, 6, 5, 12, 11, 10],
-              backgroundColor: "#C1C1C1",
-              borderColor: "#C1C1C1",
+              backgroundColor: chartColor5,
+              borderColor: chartColor5,
               borderWidth: 2,
               lineTension: 0
             },
@@ -340,8 +352,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Formation professionnelle en école à plein temps",
               data: [18, 18, 15, 15, 15, 15, 15, 16, 18, 17, 17, 19, 18, 22, 15, 17, 15],
-              backgroundColor: "#D8D8D8",
-              borderColor: "#D8D8D8",
+              backgroundColor: chartColor4,
+              borderColor: chartColor4,
               borderWidth: 2,
               lineTension: 0
             },
@@ -350,8 +362,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Formation professionnelle duale",
               data: [4, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 5, 6, 5, 8, 9, 9],
-              backgroundColor: "#F4965E",
-              borderColor: "#F4965E",
+              backgroundColor: chartColor2,
+              borderColor: chartColor2,
               borderWidth: 2,
               lineTension: 0
             },
@@ -360,8 +372,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Structures de transition et d'accueil",
               data: [15, 15, 14, 14, 14, 15, 15, 15, 13, 13, 14, 13, 12, 12, 10, 9, 7],
-              backgroundColor: "#F0551B",
-              borderColor: "#F0551B",
+              backgroundColor: chartColor1,
+              borderColor: chartColor1,
               borderWidth: 2,
               lineTension: 0
             },
@@ -370,8 +382,8 @@ jQuery(document).ready(function($)
               pointRadius: 2,
               label: "Autres orientations",
               data: [8, 9, 8, 9, 10, 10, 10, 8, 10, 10, 11, 10, 10, 10, 10, 12, 12],
-              backgroundColor: "#EFEDED",
-              borderColor: "#EFEDED",
+              backgroundColor: chartColor3,
+              borderColor: chartColor3,
               borderWidth: 2,
               lineTension: 0
             }
@@ -462,24 +474,24 @@ jQuery(document).ready(function($)
               {
                 label: "Très souvent",
                 backgroundColor: [
-                  "#F0551B",
-                  "rgba(250,222,205,0.5)",
-                  "rgba(244,234,206,0.5)",
-                  "rgba(203,241,242,0.5)",
-                  "rgba(181,228,234,0.5)",
-                  "rgba(203,202,202,0.5)"
+                  chartColor2,
+                  chartColor3,
+                  chartColor4,
+                  chartColor5,
+                  chartColor6,
+                  chartColor7
                 ],
                 data: [35.6, 23, 24.2, 23.3, 16.8, 14.6]
               },
               {
                 label: "Souvent",
                 backgroundColor: [
-                 "#F0551B",
-                  "rgba(250,222,205,0.5)",
-                  "rgba(244,234,206,0.5)",
-                  "rgba(203,241,242,0.5)",
-                  "rgba(181,228,234,0.5)",
-                  "rgba(203,202,202,0.5)"
+                  chartColor2,
+                  chartColor3,
+                  chartColor4,
+                  chartColor5,
+                  chartColor6,
+                  chartColor7
                 ],
                 data: [30.1, 35, 29.8, 29.6, 30.3, 27.2]
               }
