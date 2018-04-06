@@ -15,7 +15,8 @@ html {
   height: 100%; }
 
 body {
-  height: 100%; }
+  height: 100%;
+  overflow-x: hidden; }
 
 img {
   display: block;
@@ -141,7 +142,8 @@ img {
   margin-bottom: 0; }
 
 .f-inter {
-  padding-top: 30px; }
+  padding-top: 30px;
+  overflow: auto; }
   @media (max-width: 1200px) {
     .f-inter {
       padding-top: 10px;
@@ -841,9 +843,6 @@ input {
   .interview figure figcaption {
     height: 105px;
     padding-top: 15px; }
-    @media (max-width: 500px) {
-      .interview figure figcaption {
-        text-align: center; } }
 
 .encart {
   font-size: 17px;
@@ -1023,18 +1022,21 @@ iframe.custom {
 .canvas-container {
   width: 100%; }
 
-canvas {
-  background: #fdfdfd;
-  padding: 15px;
-  border: 1px solid #e1e1e1; }
+#myChart {
+  min-height: 300px;
+  max-height: 300px; }
 
-#myChart, #myChart2 {
-  min-height: 500px;
-  max-height: 500px; }
+#myChart2 {
+  min-height: 400px;
+  max-height: 400px; }
 
 #myChart3 {
-  min-height: 470px;
-  max-height: 470px; }
+  min-height: 400px;
+  max-height: 400px; }
+  @media (max-width: 992px) {
+    #myChart3 {
+      min-height: 300px;
+      max-height: 300px; } }
 
 .scene-stepped {
   margin: 30px 0; }
@@ -1131,6 +1133,12 @@ canvas {
     @media (max-width: 992px) {
       .box-aside.is-absolute {
         position: static; } }
+
+.box-double {
+  overflow: -webkit-paged-y; }
+  @media (max-width: 992px) {
+    .box-double figure {
+      margin-bottom: 30px !important; } }
 
 /*Galleries*/
 .tilter {

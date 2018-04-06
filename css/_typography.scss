@@ -92,6 +92,7 @@ $font2: 'proxima-nova';
 .f-inter 
 { 
     padding-top: 30px; 
+    overflow: auto;
 
     @include breakpoint(lg) { 
         padding-top: 10px;

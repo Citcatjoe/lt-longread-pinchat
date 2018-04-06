@@ -4,7 +4,11 @@ jQuery(document).ready(function($)
   
 
 
-  
+  function delWhiteSpace() {
+    setTimeout(function () {
+      $('footer').nextAll('div').css('display', 'none');
+    }, 3000);
+  }
 
 
 
@@ -106,9 +110,8 @@ jQuery(document).ready(function($)
   
 
   var chart1Done = false;
-  $(window).scroll(function() {
-    if ($("#myChart").is(":in-viewport") && chart1Done == false) {
-      // CHART RÉPARTITION 16 ANS
+  // $(window).scroll(function() {
+  //   if ($("#myChart").is(":in-viewport") && chart1Done == false) {
       // CHART EVOLUTION DU NOMBRE D'ACTES ENREGISTRÉS PAR NIVEAU D'ENSEIGNEMENT
       var ctx = document
         .getElementById(
@@ -134,7 +137,7 @@ jQuery(document).ready(function($)
             datasets: [
               {
                 fill: false,
-                pointRadius: 2,
+                pointRadius: 1,
                 label:
                   "École secondaire II",
                 data: [
@@ -149,12 +152,12 @@ jQuery(document).ready(function($)
                   "#F4965E",
                 borderColor:
                   "#F4965E",
-                borderWidth: 5,
-                lineTension: 0
+                borderWidth: 3
+                //lineTension: 0
               },
               {
                 fill: false,
-                pointRadius: 2,
+                pointRadius: 1,
                 label:
                   "Cycle d'orientation",
                 data: [
@@ -169,12 +172,12 @@ jQuery(document).ready(function($)
                   "#F0551B",
                 borderColor:
                   "#F0551B",
-                borderWidth: 5,
-                lineTension: 0
+                borderWidth: 3
+                //lineTension: 0
               },
               {
                 fill: false,
-                pointRadius: 2,
+                pointRadius: 1,
                 label:
                   "École primaire",
                 data: [
@@ -189,8 +192,8 @@ jQuery(document).ready(function($)
                   "#985708",
                 borderColor:
                   "#985708",
-                borderWidth: 5,
-                lineTension: 0
+                borderWidth: 3
+                //lineTension: 0
               }
             ]
           },
@@ -280,13 +283,13 @@ jQuery(document).ready(function($)
         }
       );
 
-      chart1Done = true;
-    }
-  });
+  //     chart1Done = true;
+  //   }
+  // });
 
   var chart2Done = false;
-  $(window).scroll(function() {
-    if ($("#myChart2").is(":in-viewport") && chart2Done == false) {
+  // $(window).scroll(function() {
+  //   if ($("#myChart2").is(":in-viewport") && chart2Done == false) {
       // CHART RÉPARTITION 16 ANS
       var ctx2 = document.getElementById("myChart2").getContext("2d");
       var chart2 = new Chart(ctx2, {
@@ -443,12 +446,12 @@ jQuery(document).ready(function($)
       });
 
       chart2Done = true;
-    }
-  });
+  //   }
+  // });
 
   var chart3Done = false;
-  $(window).scroll(function(){
-      if ( $('#myChart3').is(':in-viewport') && chart3Done == false) {
+  // $(window).scroll(function(){
+  //     if ( $('#myChart3').is(':in-viewport') && chart3Done == false) {
        // CHART PIE
         var ctx3 = document.getElementById("myChart3").getContext("2d");
         var chart3 = new Chart(ctx3, {
@@ -530,8 +533,8 @@ jQuery(document).ready(function($)
         });
 
         chart3Done = true;
-    }
-  });
+  //   }
+  // });
 
   
 

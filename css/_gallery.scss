@@ -106,3 +106,17 @@
 {
 
 }
+
+.box-double
+{
+	overflow: -webkit-paged-y;
+	
+	
+
+	@include breakpoint(md) { 
+		figure
+		{
+			margin-bottom: 30px !important;
+		}
+	}
+}

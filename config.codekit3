@@ -93,6 +93,46 @@
 		"oAP": "\/_prod\/txt\/~$NCHAT TXT DéFINITIF.docx",
 		"oF": 0
 		},
+	"\/_prod\/video\/Cheval_1.jpg": {
+		"ft": 16384,
+		"iS": 794045,
+		"oA": 0,
+		"oAP": "\/_prod\/video\/Cheval_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/video\/Cheval_2.jpg": {
+		"ft": 16384,
+		"iS": 695926,
+		"oA": 0,
+		"oAP": "\/_prod\/video\/Cheval_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/video\/Cheval_3.jpg": {
+		"ft": 16384,
+		"iS": 990118,
+		"oA": 0,
+		"oAP": "\/_prod\/video\/Cheval_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/video\/Cheval_4.jpg": {
+		"ft": 16384,
+		"iS": 782554,
+		"oA": 0,
+		"oAP": "\/_prod\/video\/Cheval_4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/BLOCKS.html.twig": {
 		"cB": 0,
 		"ft": 8192,
@@ -1884,6 +1924,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/christine-agassis.jpg": {
+		"ft": 16384,
+		"iS": 282916,
+		"oA": 0,
+		"oAP": "\/img\/article\/christine-agassis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/collapsable1-thumb.jpg": {
 		"ft": 16384,
 		"iS": 56159,
@@ -2157,6 +2207,96 @@
 		"iS": 60968,
 		"oA": 0,
 		"oAP": "\/img\/article\/nadege-salzmann-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat10.jpg": {
+		"ft": 16384,
+		"iS": 317874,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat12.jpg": {
+		"ft": 16384,
+		"iS": 415527,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat31.jpg": {
+		"ft": 16384,
+		"iS": 376785,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat31.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat6.jpg": {
+		"ft": 16384,
+		"iS": 333672,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat76.jpg": {
+		"ft": 16384,
+		"iS": 346499,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat77.jpg": {
+		"ft": 16384,
+		"iS": 394306,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat77.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat8.jpg": {
+		"ft": 16384,
+		"iS": 354174,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat89.jpg": {
+		"ft": 16384,
+		"iS": 285091,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat89.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/pinchat99.jpg": {
+		"ft": 16384,
+		"iS": 623625,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat99.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2528,11 +2668,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexH.php": {
+	"\/indexLT.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/indexH.php",
+		"oAP": "\/indexLT.php",
 		"oF": 0
 		},
 	"\/js\/anim-blocks-min.js": {
