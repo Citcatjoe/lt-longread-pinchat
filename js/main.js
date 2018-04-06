@@ -171,7 +171,7 @@ jQuery(document).ready(function($)
                 fill: false,
                 pointRadius: 1,
                 label:
-                  "École primaire",
+                  "Ecole primaire",
                 data: [
                   102,
                   80,
@@ -191,7 +191,7 @@ jQuery(document).ready(function($)
                 fill: false,
                 pointRadius: 1,
                 label:
-                  "École secondaire II",
+                  "Ecole secondaire II",
                 data: [
                   154,
                   145,
@@ -211,9 +211,10 @@ jQuery(document).ready(function($)
           },
           options: {
             title: {
-              display: true,
+              display: false,
+              fontSize: 16,
               text:
-                "Évolution du nombre d'actes enregistrés par niveau d'enseignement"
+                "Évolution du nombre d'actes de violence enregistrés dans les écoles genevoises"
             },
             responsive: true,
             maintainAspectRatio: false,
@@ -391,9 +392,9 @@ jQuery(document).ready(function($)
         },
         options: {
           title: {
-            display: true,
+            display: false,
             text:
-              "Situation au 31 décembre des élèves scolarisés en 11e du cycle d'orientation l'année précédente"
+              "De moins en moins d'apprentissages, de plus en plus d'élèves en transition"
           },
           responsive: true,
           maintainAspectRatio: false,
@@ -512,9 +513,9 @@ jQuery(document).ready(function($)
           },
           options: {
             title: {
-              display: true,
+              display: false,
               text:
-                "J'ai l'impression de devoir «tenir le coup» pendant la période scolaire"
+                "«J'ai l'impression de devoir tenir le coup pendant la période scolaire»"
             },
             tooltips: {
               enabled: true,
@@ -524,14 +525,20 @@ jQuery(document).ready(function($)
                 //   window.total = 0;
                 // },
                 label: function(tooltipItem, data) {
-                  var corporation = data.datasets[tooltipItem.datasetIndex].label;
+                  var corporation =
+                    data.datasets[tooltipItem.datasetIndex].label;
                   var valor =
-                    data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+                    data.datasets[tooltipItem.datasetIndex].data[
+                      tooltipItem.index
+                    ];
                   window.total += valor;
                   return (
                     corporation +
                     ": " +
-                    valor.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")+ '%'
+                    valor
+                      .toString()
+                      .replace(/\B(?=(\d{3})+(?!\d))/g, " ") +
+                    "%"
                   );
                 }
                 // footer: function () {

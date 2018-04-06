@@ -65,6 +65,303 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_prod\/kalonji\/1.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/1.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/2.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/2.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/3.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/3.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/4.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/4.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/5.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/5.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/kalonji-enfant-txt.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/kalonji-enfant-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/modified\/1.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/modified\/1.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/modified\/2.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/modified\/2.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/modified\/3.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/modified\/3.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/modified\/4.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/modified\/4.psd",
+		"oF": 0
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-kid.jpg": {
+		"ft": 16384,
+		"iS": 122646,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-kid.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-kid.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-prof.jpg": {
+		"ft": 16384,
+		"iS": 120995,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-prof.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-prof.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-prof.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-txt.jpg": {
+		"ft": 16384,
+		"iS": 64225,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-conne-txt.png": {
+		"ft": 32768,
+		"iS": 16601,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-conne-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-enfant-prof.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-enfant-prof.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-enfant-txt.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-enfant-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-kid.jpg": {
+		"ft": 16384,
+		"iS": 120419,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-kid.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-kid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-prof.jpg": {
+		"ft": 16384,
+		"iS": 172024,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-prof.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-prof.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-prof.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-txt.jpg": {
+		"ft": 16384,
+		"iS": 62748,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-obeis-txt.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-schlingue-kidd.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-schlingue-kidd.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-schlingue-kidg.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-schlingue-kidg.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-schlingue-txt.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-schlingue-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-travailler-kid.jpg": {
+		"ft": 16384,
+		"iS": 153477,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-travailler-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-travailler-kid.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-travailler-kid.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-travailler-txt.jpg": {
+		"ft": 16384,
+		"iS": 72876,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-travailler-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-travailler-txt.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-travailler-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_prod\/palette.sketch": {
 		"cB": 0,
 		"ft": 8192,
@@ -2142,6 +2439,229 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/kalonji-conne-kid.jpg": {
+		"ft": 16384,
+		"iS": 122646,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-conne-kid.png": {
+		"ft": 32768,
+		"iS": 86736,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-kid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-conne-prof.jpg": {
+		"ft": 16384,
+		"iS": 120995,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-prof.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-conne-prof.png": {
+		"ft": 32768,
+		"iS": 196441,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-prof.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-conne-txt.jpg": {
+		"ft": 16384,
+		"iS": 64225,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-conne-txt.png": {
+		"ft": 32768,
+		"iS": 16601,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-conne-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-enfant-prof.png": {
+		"ft": 32768,
+		"iS": 165645,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-enfant-prof.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-enfant-txt.png": {
+		"ft": 32768,
+		"iS": 39990,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-enfant-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-kid.jpg": {
+		"ft": 16384,
+		"iS": 120419,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-kid.png": {
+		"ft": 32768,
+		"iS": 230284,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-kid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-prof.jpg": {
+		"ft": 16384,
+		"iS": 172024,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-prof.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-prof.png": {
+		"ft": 32768,
+		"iS": 171309,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-prof.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-txt.jpg": {
+		"ft": 16384,
+		"iS": 62748,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-obeis-txt.png": {
+		"ft": 32768,
+		"iS": 17289,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-obeis-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-schlingue-kidd.png": {
+		"ft": 32768,
+		"iS": 109886,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-schlingue-kidd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-schlingue-kidg.png": {
+		"ft": 32768,
+		"iS": 104940,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-schlingue-kidg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-schlingue-txt.png": {
+		"ft": 32768,
+		"iS": 19362,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-schlingue-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-travailler-kid.jpg": {
+		"ft": 16384,
+		"iS": 153477,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-travailler-kid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-travailler-kid.png": {
+		"ft": 32768,
+		"iS": 162317,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-travailler-kid.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-travailler-txt.jpg": {
+		"ft": 16384,
+		"iS": 72876,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-travailler-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/kalonji-travailler-txt.png": {
+		"ft": 32768,
+		"iS": 38745,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-travailler-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/article\/lugon1.jpg": {
 		"ft": 16384,
 		"iS": 152690,
@@ -2668,11 +3188,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexLT.php": {
+	"\/indexH.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/indexLT.php",
+		"oAP": "\/indexH.php",
 		"oF": 0
 		},
 	"\/js\/anim-blocks-min.js": {
