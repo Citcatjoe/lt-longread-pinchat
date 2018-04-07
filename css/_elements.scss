@@ -1030,7 +1030,7 @@ canvas
 {	
 	
 	//margin-bottom: 45px;
-	margin: 30px 0;
+	//margin: 30px 0; /////////////////////////////
 	@include breakpoint(md) { 
 		margin: 0 0 15px 0;
 		
@@ -1053,17 +1053,18 @@ canvas
 	.scene-stepped--figure
 	{
 		//background: gray;
-		height: 368px;
+		height: 580px;
 		position: relative;
+		overflow: visible !important; ///////////////
 
 		@include breakpoint(xl) { 
-	    	height: 312px;
+	    	height: 450px;
 			
 			
 		   }
 		   
 		   @include breakpoint(lg) { 
-	    	height: 296px;
+	    	height: 430px;
 			
 			
    		}
@@ -1071,7 +1072,7 @@ canvas
 		@include breakpoint(md) { 
 	    	padding-bottom: 100%;
 			margin-bottom: 20px;
-			
+			height: auto;
 			
    		}
 		
@@ -1079,10 +1080,44 @@ canvas
 		{
 			position: absolute;
 			top: 0;
-			left: 0;
+			right:150px;  ///////////////////////
+			width: 600px; ///////////////////////
 			// display: none;
 			// visibility: hidden;
 			opacity: 0;
+
+			@include breakpoint(xl) { 
+	    	width: 450px;
+			
+			
+		   }
+
+		   @include breakpoint(lg) { 
+				right: 130px;
+				
+				
+			}
+
+			@include breakpoint(md) { 
+				width: 100%;
+				right: 0;
+				height: auto;
+				
+				
+			}
+		}
+
+		
+
+		figcaption
+		{
+			float: left !important;
+
+			@include breakpoint(md) { 
+				display: none;
+				
+				
+			}
 		}
 	}
 
@@ -1104,6 +1139,56 @@ canvas
 		
 	}
 
+}
+
+.scene-stepped-lg
+{
+	figure 
+	{
+		height: 520px !important;
+
+		@include breakpoint(xl) { 
+	    	height: 420px !important;
+			
+			
+		   }
+
+		@include breakpoint(lg) { 
+	    	height: 370px !important;
+			
+			
+		   }
+
+		@include breakpoint(md) { 
+	    	height: auto !important;
+			padding-bottom: 70% !important;
+			
+		   }
+	}
+	img
+	{
+		width: 750px !important;
+		right:80px !important;
+		@include breakpoint(xl) { 
+	    	width: 600px !important;
+		right:70px !important;
+			
+			
+		   }
+
+		@include breakpoint(lg) { 
+	    	width: 530px !important;
+		right:90px !important;
+			
+			
+		   }
+		@include breakpoint(md) { 
+	    	width: 100% !important;
+		right:0 !important;
+			
+			
+		   }
+	}
 }
 
 .google-map

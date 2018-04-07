@@ -240,8 +240,8 @@
 		"oA": 0,
 		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-kid.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -282,6 +282,17 @@
 		"oA": 0,
 		"oAP": "\/_prod\/kalonji\/output\/kalonji-obeis-txt.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_prod\/kalonji\/output\/kalonji-schlingue-bg.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_prod\/kalonji\/output\/kalonji-schlingue-bg.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
@@ -315,8 +326,8 @@
 		"oA": 0,
 		"oAP": "\/_prod\/kalonji\/output\/kalonji-schlingue-txt.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2536,7 +2547,7 @@
 		},
 	"\/img\/article\/kalonji-obeis-kid.png": {
 		"ft": 32768,
-		"iS": 230284,
+		"iS": 88263,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-obeis-kid.png",
 		"oF": 0,
@@ -2545,40 +2556,20 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/article\/kalonji-obeis-prof.jpg": {
-		"ft": 16384,
-		"iS": 172024,
-		"oA": 0,
-		"oAP": "\/img\/article\/kalonji-obeis-prof.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/article\/kalonji-obeis-prof.png": {
 		"ft": 32768,
-		"iS": 171309,
+		"iS": 0,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-obeis-prof.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
-		"q": 100
-		},
-	"\/img\/article\/kalonji-obeis-txt.jpg": {
-		"ft": 16384,
-		"iS": 62748,
-		"oA": 0,
-		"oAP": "\/img\/article\/kalonji-obeis-txt.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/img\/article\/kalonji-obeis-txt.png": {
 		"ft": 32768,
-		"iS": 17289,
+		"iS": 7794,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-obeis-txt.png",
 		"oF": 0,
@@ -2587,9 +2578,20 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/article\/kalonji-schlingue-bg.png": {
+		"ft": 32768,
+		"iS": 11314,
+		"oA": 0,
+		"oAP": "\/img\/article\/kalonji-schlingue-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/article\/kalonji-schlingue-kidd.png": {
 		"ft": 32768,
-		"iS": 109886,
+		"iS": 132349,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-schlingue-kidd.png",
 		"oF": 0,
@@ -2600,7 +2602,7 @@
 		},
 	"\/img\/article\/kalonji-schlingue-kidg.png": {
 		"ft": 32768,
-		"iS": 104940,
+		"iS": 135528,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-schlingue-kidg.png",
 		"oF": 0,
@@ -2611,7 +2613,7 @@
 		},
 	"\/img\/article\/kalonji-schlingue-txt.png": {
 		"ft": 32768,
-		"iS": 19362,
+		"iS": 9259,
 		"oA": 0,
 		"oAP": "\/img\/article\/kalonji-schlingue-txt.png",
 		"oF": 0,
@@ -2802,6 +2804,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/pinchat86.jpg": {
+		"ft": 16384,
+		"iS": 301928,
+		"oA": 0,
+		"oAP": "\/img\/article\/pinchat86.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/article\/pinchat89.jpg": {
 		"ft": 16384,
 		"iS": 285091,
@@ -2819,7 +2831,7 @@
 		"oAP": "\/img\/article\/pinchat99.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/article\/slider1.jpg": {
@@ -3012,6 +3024,70 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/article\/xkalonji-obeis-prof.jpg": {
+		"ft": 16384,
+		"iS": 172024,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-obeis-prof.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/xkalonji-obeis-prof.png": {
+		"ft": 32768,
+		"iS": 171309,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-obeis-prof.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/xkalonji-obeis-txt.jpg": {
+		"ft": 16384,
+		"iS": 62748,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-obeis-txt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/article\/xkalonji-schlingue-kidd.png": {
+		"ft": 32768,
+		"iS": 109886,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-schlingue-kidd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/xkalonji-schlingue-kidg.png": {
+		"ft": 32768,
+		"iS": 104940,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-schlingue-kidg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/article\/xkalonji-schlingue-txt.png": {
+		"ft": 32768,
+		"iS": 19362,
+		"oA": 0,
+		"oAP": "\/img\/article\/xkalonji-schlingue-txt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/checkbox-checked.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3188,11 +3264,11 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/indexH.php": {
+	"\/indexLT.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/indexH.php",
+		"oAP": "\/indexLT.php",
 		"oF": 0
 		},
 	"\/js\/anim-blocks-min.js": {
